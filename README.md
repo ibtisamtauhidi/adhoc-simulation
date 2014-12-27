@@ -1,1 +1,1 @@
-Ad-hoc simulation with 12 mobile nodes in NS2. This is to compare performance under different combinations of routing protocols (AODV, DSDV, DSR) and congestion control algorithms (TCP Reno, New Reno, Vegas)
+Ad-hoc simulation with 12 mobile nodes in NS2. This is to compare performance under different combinations of routing protocols (AODV, DSDV, DSR) and congestion control algorithms (TCP Reno, New Reno, Vegas).
